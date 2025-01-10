@@ -1,22 +1,18 @@
-# 🎯 Customer Form by JavaFX
+# Calculator Java Swing 🖩
 
-A simple customer form built using JavaFX. This project allows users to input customer details and interact with the form using a smooth GUI.
+A simple calculator application built using Java Swing. This project demonstrates the use of Swing components to create a functional GUI for basic arithmetic operations.
 
-## 🚀 Tech Stack
+## 🚀 Features
+- Addition, subtraction, multiplication, and division.
+- User-friendly graphical interface.
 
-**Client:** JavaFX  
-**Server:** N/A
+## 🔧 Tech Stack
+- **Language**: Java
+- **Framework**: Java Swing
 
-## 🛠 Features
+## 🛠 Installation
+To install and run the project locally:
 
-- 🚀 Easy-to-use customer form  
-- 🖥 Smooth JavaFX user interface  
-- 📋 Form validation and submission
-
-## 📦 Installation
-
-Clone this project and navigate to the project directory:
-
-```bash
-git clone https://github.com/Chathupachamika/Customer_Form_by_JavaFX.git
-cd Customer_Form_by_JavaFX
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Chathupachamika/Calculator_javaSwing.git
